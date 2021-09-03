@@ -1,4 +1,4 @@
-# Cats-vs-dogs-CNN-Classifier
+# Cats-vs-dogs-CNN-Classifier - Simple classifier for learning CNN using Tensorflow
 
 
 #Used Kaggle datasets. Load from the personal computer
